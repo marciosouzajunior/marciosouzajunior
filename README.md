@@ -1,8 +1,5 @@
-### Heey! 👋
+## It's me, Márcio!
 
-My name is Márcio. Please let me know if I can help you. Some facts about me:
+:arrow_forward: Let's build something clean and beautiful?
 
-- :iphone: I’m a software developer.
-- :wrench: Main skills: Java and Xamarin.
-- :relaxed: In my free time I like reading, running and playing drums.
-- 📫 How to reach me: marciosouzajunior@gmail.com
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciosouzajunior&exclude_repo=DataTablesJSP,d3edit,vuttr&theme=github_dark&hide_border=true&layout=compact)
