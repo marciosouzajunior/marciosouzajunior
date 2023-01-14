@@ -1,4 +1,4 @@
-## It's me, Márcio!
+## It's me, Marcio!
 
 :arrow_forward: Let's build something clean and beautiful?
 
